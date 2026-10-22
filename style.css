@@ -1,0 +1,8 @@
+body {
+    font-family: var(--fontStack-sansSerif);
+    font-size: var(--body-font-size, 14px);
+    font-weight: var(--base-text-weight-normal, 400);
+    color: var(--fgColor-default, var(--color-fg-default));
+    background-color: var(--bgColor-default, var(--color-canvas-default));
+    line-height: 1.5;
+}
